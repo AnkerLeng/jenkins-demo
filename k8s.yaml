@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
 #       - image: cnych/jenkins-demo:<BUILD_TAG>
-      - image: hiber3721/jenkins-demo:<BUILD_TAG>
+      - image: hiber4728/jenkins-demo:<BUILD_TAG>
         imagePullPolicy: IfNotPresent
         name: jenkins-demo
         env:
