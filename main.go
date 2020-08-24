@@ -9,5 +9,4 @@ import (
 
 func main() {
 	fmt.Println("Hello, 冰箱哥哥！I'm from Jenkins CI！")
-	fmt.Println("BRANCH_NAME:", os.Getenv("branch"))
 }
